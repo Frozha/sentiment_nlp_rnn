@@ -1,2 +1,0 @@
-1. extern.csv -> https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?select=Twitter_Data.csv
-2.

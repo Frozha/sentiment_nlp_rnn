@@ -1,0 +1,12 @@
+requests
+bs4
+newspaper3k
+pandas
+google
+nltk
+matplotlib
+selenium
+pynput
+pickle
+tensorflow
+scikit-learn
